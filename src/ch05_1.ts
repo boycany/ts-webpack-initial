@@ -75,4 +75,4 @@ function getArr(){
     return [0, 1, 'Lee'] as [number, number, string]
 }
 
-const arr = getArr
+const [id, age, username] = getArr()
