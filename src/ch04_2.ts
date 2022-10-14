@@ -1,0 +1,11 @@
+// interface
+
+interface UserCard {
+    name: string,
+    desc: string
+}
+
+const usercard: UserCard = {
+    name: "",
+    desc: ""
+}
