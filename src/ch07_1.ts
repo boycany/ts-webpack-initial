@@ -10,3 +10,4 @@ function hello<T, U>(text: T, text2: U): T {
 
 hello<string, number>('bruce', 2)
 hello<number, boolean>(999, true)
+
