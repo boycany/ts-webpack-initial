@@ -17,7 +17,7 @@ class User{
         this.name = username
     }
     //定義屬性（變數）跟功能（函數）
-    name: string
+    name: string 
     age: number
     address: string
 
